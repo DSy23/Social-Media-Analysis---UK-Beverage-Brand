@@ -1,6 +1,6 @@
 Overview
 
-This project focuses on comprehensive data analysis for Leffe, a renowned beer brand in the UK. Our analysis encompasses diverse data sources: social media metrics, e-commerce sales figures, brand tracking surveys, and Google search trends. The goal is to provide actionable insights into Leffe's market presence, consumer behavior, and brand perception.
+This project focuses on comprehensive data analysis for Leffe, a renowned beer brand in the UK. Analysis encompasses diverse data sources: social media metrics, e-commerce sales figures, brand tracking surveys, and Google search trends. The goal is to provide actionable insights into Leffe's market presence, consumer behavior, and brand perception.
 
 Data Sources
 
